@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Pakistan Qasimrana</h3>
 
-<h4>Having Experience and expertise on different products like Medical domain EMR systems, HRM, shipping Logistics, and Asset Management systems, Inventory System, Social Currant.</h4>
+<h4>Having Experience and expertise on different products like Medical domain EMR systems, HRM, shipping Logistics, asset management systems, inventory systems, and social currency.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="qasimrana" /> </p>
@@ -15,5 +15,5 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasimrana](https://github.com/qasimrana)
 
-- 💬 Ask me about **JAVA, Django, VueJS, ReactJS, AWS, WordPress**
+- 💬 Ask me about **JAVA, Phython, Django, Node, VueJS, ReactJS, AWS, DigitalOcean, WordPress**
 
