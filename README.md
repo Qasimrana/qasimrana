@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Pakistan Qasimrana</h3>
 
-<h4>Having Experience and expertise on different products like Medical domain EMR systems, HRM, shipping Logistics, asset management systems, inventory systems, and social currency.</h4>
+<h4>Having Experience and expertise on different products like Medical domain EMR systems, HRM, Real Estate management systems, shipping Logistics, asset management systems, inventory systems, and social currency.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="qasimrana" /> </p>
